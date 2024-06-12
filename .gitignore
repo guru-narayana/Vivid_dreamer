@@ -1,0 +1,7 @@
+*.pt
+*.pth
+outputs/
+shap_e_model_cache/
+.threestudio_cache/
+*.pyc
+wandb/
