@@ -1,6 +1,8 @@
 
 # Vivid Dreamer : Text to 3D
-
+![](https://github.com/guru-narayana/Vivid_dreamer/blob/master/images/clock.gif)
+![](https://github.com/guru-narayana/Vivid_dreamer/blob/master/images/sofa.gif)
+![](https://github.com/guru-narayana/Vivid_dreamer/blob/master/images/diamond.gif)
 ## Get Started
 **Installation**
 Install [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [Shap-E](https://github.com/openai/shap-e#usage) as fellow:
